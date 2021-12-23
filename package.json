@@ -1,5 +1,5 @@
 {
-  "name": "netlfy-password-protect-no-ads",
+  "name": "netlfy-pw-no-ads",
   "version": "0.0.1",
   "description": "remove name from html",
   "author": "James Taylor",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blairanderson/netlify-plugin-password-protection.git"
+    "url": "git+https://github.com/red-eyed-tree-frog/crypt-static.git"
   },
   "keywords": [
     "netlify",
@@ -23,7 +23,7 @@
     "password-protect"
   ],
   "bugs": {
-    "url": "https://github.com/blairanderson/netlify-plugin-password-protection/issues"
+    "url": "https://github.com/red-eyed-tree-frog/crypt-static/issues"
   },
-  "homepage": "https://github.com/blairanderson/netlify-plugin-password-protection#readme"
+  "homepage": "https://github.com/red-eyed-tree-frog/crypt-static#readme"
 }
