@@ -1,8 +1,8 @@
 {
-  "name": "netlify-plugin-password-protection",
-  "version": "3.0.2",
-  "description": "a plugin to encrypt your static HTML files, similar to using staticrypt",
-  "author": "Blair Anderson",
+  "name": "netlfy-password-protect-no-ads",
+  "version": "0.0.1",
+  "description": "remove name from html",
+  "author": "James Taylor",
   "license": "MIT",
   "dependencies": {
     "crypto-js": "^4.0.0",
